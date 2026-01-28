@@ -52,7 +52,7 @@ https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-
 
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_374,h_374,c_fill,f_webp,q_auto:eco/resources/0-9-zing/square/374x3743f40fe6525f24b46b6b85e448eae4a73" group-title="Music",(IN) Zing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8?hdntl=exp=1769672885~acl=%2f*~id=27cb0312-7b5a-4c38-8dd6-cda10fe118dd~data=hdntl~hmac=a0db623a36cf2d2fef252e6de3a1adc2e11e3119c092dd1ab6b386f43cdbf873
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zing-SD/master/master.m3u8?hdntl=exp=1769672885~acl=%2f*~id=27cb0312-7b5a-4c38-8dd6-cda10fe118dd~data=hdntl~hmac=a0db623a36cf2d2fef252e6de3a1adc2e11e3119c092dd1ab6b386f43cdbf873
 
 #EXTINF:-1 tvg-id="0-9-pictures" tvg-name="&Pictures" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_374,h_374,c_fill,f_webp,q_auto:eco/resources/0-9-pictures/square/374x3742e296cbbc4f54584b3193c4ac38d3cab" group-title="Movie",(IN) &Pictures
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
