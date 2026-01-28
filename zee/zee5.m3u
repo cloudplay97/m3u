@@ -40,7 +40,7 @@ https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-
 
 #EXTINF:-1 tvg-id="0-9-zeeclassic" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_374,h_374,c_fill,f_webp,q_auto:eco/resources/0-9-zeeclassic/square/374x374b3e872f8f4c54610aaa1b25f5f7cab6c",Zee Bollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105173/ZeeBollywoodELE/master.m3u8?hdntl=exp=1769672885~acl=%2f*~id=27cb0312-7b5a-4c38-8dd6-cda10fe118dd~data=hdntl~hmac=a0db623a36cf2d2fef252e6de3a1adc2e11e3119c092dd1ab6b386f43cdbf873
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bollywood-SD/master/master.m3u8?hdntl=exp=1769672885~acl=%2f*~id=27cb0312-7b5a-4c38-8dd6-cda10fe118dd~data=hdntl~hmac=a0db623a36cf2d2fef252e6de3a1adc2e11e3119c092dd1ab6b386f43cdbf873
 
 #EXTINF:-1 tvg-id="0-9-zeeaction" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_374,h_374,c_fill,f_webp,q_auto:eco/resources/0-9-zeeaction/square/374x37489bb867ef3924cc8b0d06621ab1b98a8",Zee Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
